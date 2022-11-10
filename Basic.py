@@ -113,7 +113,7 @@ elif mo == '2':
     os.system('python tbasic.py')
   
 elif mo == '3':
-  os.system('xdg-open https://www.facebook.com/profile.php?id=100030298454021)
+  os.system('xdg-open https://www.facebook.com/profile.php?id=100030298454021')
 elif mo == '4':
   os.system('xdg-open https://github.com/Jhalla11')
 elif mo == '5':
